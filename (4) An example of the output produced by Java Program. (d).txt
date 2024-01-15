@@ -1,0 +1,112 @@
+(4) An example of the output produced by your Java program. (Plain Text file).
+______________________________________________________________________________
+
+
+run:
+Passenger purchased ticket: Ticket{ticketNumber=2, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=3, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=1, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=5, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=4, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=6, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=7, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=8, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=9, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=10, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=11, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=12, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=13, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=14, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=15, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=16, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=17, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=18, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=19, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=20, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=21, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=22, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=23, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=24, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=25, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=26, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=27, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=28, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=29, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=30, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=31, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=32, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=33, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=34, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=35, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=36, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=37, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=38, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=39, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=40, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=41, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=42, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=43, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=44, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=45, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=46, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=47, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=48, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=49, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=50, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=51, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=52, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=53, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=54, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=55, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=56, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=57, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=58, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=59, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=60, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=61, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=62, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=63, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=64, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=65, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=66, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=67, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=68, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=69, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=70, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=71, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=72, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=73, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=74, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=75, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=76, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=77, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=78, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=79, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=80, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=81, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=82, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=83, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=84, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=85, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=86, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=87, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=88, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=89, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=90, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=91, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=92, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=93, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=94, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=95, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=96, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=97, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=98, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=99, price=50.0}
+Passenger purchased ticket: Ticket{ticketNumber=100, price=50.0}
+Unable to purchase ticket: Out of paper
+Unable to purchase ticket: Out of paper
+Unable to purchase ticket: Out of paper
+Unable to purchase ticket: Out of paper
+Unable to purchase ticket: Out of paper
+Ticket Machine Status: Paper Level = 0, Toner Level = 0
+BUILD SUCCESSFUL (total time: 48 seconds)

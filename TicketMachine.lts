@@ -1,0 +1,28 @@
+const MAX_PAPER = 3
+const MAX_TONER = 3
+
+set PRINTER_ACTIONS = {aqquirePrint[0..3][0..3], print, acquireRefill, refil, release, passpapercount[0..3],passtonercount[0..3]}
+
+PRINTER (PAPER_COUNT = MAX_PAPER, TONER_COUNT = MAX_PAPER) = PRINTER[PAPER_COUNT][TONER_COUNT],
+PRINTER[p : 0..PAPER_COUNT] [t: 0..MAX_TONER] = 
+if (p == 0 || t == 0)
+then (acquireRefill -> refill -> release -> PRINTER[MAX_PAPER] [t] | acquireRefill -> refill -> PRINTER[p] [MAX_TONER])
+else (acquirePrint[p] [t] -> print -> release -> passpapercount[p-1] -> passtonercount[t-1] -> PRINTER[p-1][t-1]).
+
+PAPER_TECHNICIAN = (passpapercount[p : 0..3] -> 
+if(p == 0) 
+then (acquireRefill -> refill -> release -> PAPER_TECHNICIAN)
+else(wait -> PAPER_TECHNICIAN)) + PRINTER_ACTIONS.
+
+TONER_TECHNICIAN = (passpapercount[t : 0..3] -> 
+if(t == 0) 
+then (acquireRefill -> refill -> release -> TONER_TECHNICIAN)
+else(wait -> TONER_TECHNICIAN)) + PRINTER_ACTIONS.
+
+PASSENGER(TICKETS = 1) = PASSENGER[TICKETS],
+PASSENGER[d : 1..3] = (acquirePrint[p : 0..3][t : 0..3] -> 
+if(t >= d && p >= d) 
+then (print -> release -> PASSENGER)
+else(wait -> PASSENGER)) + PRINTER_ACTIONS.
+
+||PRINTING_SYSTEM = (p1: PASSENGER(2) || pt: PAPER_TECHNICIAN || tt: TONER_TECHNICIAN || {p1, tt, pt} :: PRINTER).
